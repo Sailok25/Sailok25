@@ -1,5 +1,6 @@
 ## Hola, soy Sailok 👋
-Soy actualmente estudiante de DAM (Desenvolupamiento de Aplicaciónes Multiplataforma), me gradué en SMX (Sistemas Microinformaticos y Redes). Estoy interesada en el HTML y sus posibilidades juntando otros leguajes, tambien me gustaria aprender a usar JAVA y Python para crear futuros programas.
+<p>Soy actualmente estudiante de DAM (Desenvolupamiento de Aplicaciónes Multiplataforma), me gradué en SMX (Sistemas Microinformaticos y Redes).</p>
+<p>Estoy interesada en el HTML y sus posibilidades juntando otros leguajes, tambien me gustaria aprender a usar JAVA y Python para crear futuros programas.</p>
 
 ## Blog ✍️
 Aquí solo encontraréis proyectos en los que trabajo para inspirarme y motivarme :D
