@@ -17,5 +17,5 @@ Aquí solo encontraréis proyectos en los que trabajo para inspirarme y motivarm
 <br>
 
 
-<i>Aquí viendo como voy a hacer realmente todo eso que trato de creear...🤡<i>
+<i>Aquí viendo como voy a hacer realmente todo eso que quiero...🤡<i>
 <img src="https://i.pinimg.com/564x/00/68/33/006833d62de3321b980cb2b6a46088a5.jpg">
