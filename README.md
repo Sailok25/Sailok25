@@ -21,7 +21,7 @@ Repositorios con los que practico distintos lenguajes de programación y etiquet
 - <a href="https://github.com/Sailok25/CSS">CSS</a>
 - <a href="https://github.com/Sailok25/JavaScript"><del>JavaScript (aun no empiezo)</del></a>
 - <a href="https://github.com/Sailok25/Java"><del>Java (aun no empiezo)</del></a>
-- <a href="https://github.com/Sailok25/PHP"<del></del>PHP(aun no empiezo)</del></a>
+- <a href="https://github.com/Sailok25/PHP"><del>PHP(aun no empiezo)</del></a>
 - <a href="https://github.com/Sailok25/Python"><del>Python (aun no empiezo)</del></a>
 
 <br>
