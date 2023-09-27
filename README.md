@@ -2,6 +2,7 @@
 <p>Soy actualmente estudiante de DAM (Desenvolupamiento de Aplicaciónes Multiplataforma), me gradué en SMX (Sistemas Microinformaticos y Redes).</p>
 <p>Estoy interesada en el HTML y sus posibilidades juntando otros leguajes, tambien me gustaria aprender a usar JAVA y Python para crear futuros programas.</p>
 
+<br>
 
 ## Blog ✍️
 Aquí solo encontraréis proyectos en los que trabajo para inspirarme y motivarme :D
@@ -11,6 +12,17 @@ Aquí solo encontraréis proyectos en los que trabajo para inspirarme y motivarm
 - <a href="https://github.com/Sailok25/Rebootiga">Re:Bootiga</a>
 - <a href="https://github.com/Sailok25/Repository">Portafolios</a> (algun dia xd)
 
+<br>
+
+## Practicas ✍️
+Repositorios con los que practico distintos lenguajes de programación y etiquetas
+
+- <a href="https://github.com/Sailok25/HTML">HTML</a>
+- <a href="https://github.com/Sailok25/CSS">CSS</a>
+- <a href="https://github.com/Sailok25/JavaScript"><del>JavaScript (aun no empiezo)</del></a>
+- <a href="https://github.com/Sailok25/Java"><del>Java (aun no empiezo)</del></a>
+- <a href="https://github.com/Sailok25/PHP"<del></del>PHP(aun no empiezo)</del></a>
+- <a href="https://github.com/Sailok25/Python"><del>Python (aun no empiezo)</del></a>
 
 <br>
 <br>
