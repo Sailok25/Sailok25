@@ -4,7 +4,7 @@
 
 <br>
 
-## Blog ✍️
+## Proyectos 🏗️
 Aquí solo encontraréis proyectos en los que trabajo para inspirarme y motivarme :D
 
 - <a href="https://github.com/Sailok25/Bumbaluncia">Bumbaluncia</a>
