@@ -11,6 +11,7 @@ Aquí solo encontraréis proyectos en los que trabajo para inspirarme y motivarm
 - <a href="https://github.com/Sailok25/Catarsis">Catarsis</a>
 - <a href="https://github.com/Sailok25/Rebootiga">Re:Bootiga</a>
 - <a href="https://github.com/Sailok25/StravaPresence">Strava Presence</a>
+- <a href="https://github.com/Sailok25/KickTheBuddy">Kick the Buddy</a>
 - <a href="https://github.com/Sailok25/Repository">Portafolios</a> (algun dia xd)
 
 <br>
