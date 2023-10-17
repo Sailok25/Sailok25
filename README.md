@@ -1,5 +1,5 @@
 <pre align="center">
-<p align="center">▂▃▅▇█░▓ HELLO WORLD, I'M: ▓░█▇▅▃▂</p>
+<p align="center">▂▃▅▇█░▓ HOLA MUNDO, SOY: ▓░█▇▅▃▂</p>
 ███████╗ █████╗ ██╗██╗      ██████╗ ██╗  ██╗
 ██╔════╝██╔══██╗██║██║     ██╔═══██╗██║ ██╔╝
 ███████╗███████║██║██║     ██║   ██║█████╔╝ 
@@ -9,7 +9,7 @@
 <p align="center">---------------->[ 25/11 ]<----------------</p></pre>
                                             
 
-## About me ✌️
+## Sobre mi ✌️
 <p>Soy actualmente estudiante de DAM (Desenvolupamiento de Aplicaciónes Multiplataforma), me gradué en SMX (Sistemas Microinformaticos y Redes).</p>
 <p>Estoy interesada en el HTML y sus posibilidades juntando otros leguajes, tambien me gustaria aprender a usar JAVA y Python para crear futuros programas.</p>
 
