@@ -19,7 +19,7 @@ Aquí solo encontraréis proyectos en los que trabajo para inspirarme y motivarm
 Repositorios con los que practico distintos lenguajes de programación y etiquetas
 
 - <a href="https://github.com/Sailok25/codeSampler">codeSampler</a>
-- <a href="https://github.com/Sailok25/Repository">Portafolios</a> (algun dia xd)
+- <a href="https://github.com/Sailok25/Repository">Portafolios</a>
 
 <br>
 <br>
