@@ -7,7 +7,7 @@
 ## Proyectos 🏗️
 Aquí solo encontraréis proyectos en los que trabajo para inspirarme y motivarme :D
 
-- <a href="https://github.com/Sailok25/horaMundial">Hora Mundial</a>
+- <a href="https://github.com/Sailok25/CronoHub">CronoHub</a>
 - <a href="https://github.com/Sailok25/Pass_Generator">passGenerator</a>
 - <a href="https://github.com/Sailok25/Rebootiga">Re:Bootiga</a>
 - <a href="https://github.com/Sailok25/Bumbaluncia">Bumbaluncia</a>
