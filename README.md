@@ -10,9 +10,7 @@ Aquí solo encontraréis proyectos en los que trabajo para inspirarme y motivarm
 - <a href="https://github.com/Sailok25/ChronoHub">ChronoHub</a>
 - <a href="https://github.com/Sailok25/Pass_Generator">passGenerator</a>
 - <a href="https://github.com/Sailok25/Rebootiga">Re:Bootiga</a>
-- <a href="https://github.com/Sailok25/Bumbaluncia">Bumbaluncia</a>
-- <a href="https://github.com/Sailok25/StravaPresence">Strava Presence</a>
-- <a href="https://github.com/Sailok25/KickTheBuddy">Kick the Buddy</a>
+- <a href="https://github.com/Sailok25/Catarsis">Catarsis</a>
 
 <br>
 
