@@ -15,10 +15,9 @@ Aquí solo encontraréis proyectos en los que trabajo para inspirarme y motivarm
 <br>
 
 ## Practicas ✍️
-Repositorios con los que practico distintos lenguajes de programación y etiquetas
+Repositorio con el que practico distintos lenguajes de programación y marcas
 
 - <a href="https://github.com/Sailok25/codeSampler">codeSampler</a>
-- <a href="https://github.com/Sailok25/Repository">Portafolios</a>
 
 <br>
 <br>
