@@ -48,6 +48,18 @@
     src="https://img.shields.io/badge/XML-8A2BE2?style=for-the-badge&logo=xml&logoColor=white" 
     alt="XML" 
   />
+  <img 
+    src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" 
+    alt="MySQL" 
+  />
+  <img 
+    src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" 
+    alt="PostgreSQL" 
+  />
+  <img 
+    src="https://img.shields.io/badge/JasperReports-000000?style=for-the-badge&logo=jasperreports&logoColor=white" 
+    alt="JasperReports" 
+  />
 </p>
 
 <p align="left">
