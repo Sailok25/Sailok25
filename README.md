@@ -10,7 +10,7 @@
 <h1 align="left">Hi! I'm <code>&lt;/Sailok&gt;</code></h1>
 
 <p align="left">
-  I'm an SMX student passionate about <strong>web design</strong> and 
+  I'm an DAM student passionate about <strong>web design</strong> and 
   <strong>creative technologies</strong>. I share academic and personal projects here as 
   I work on improving my skills. My goal is to become a professional in digital design.
 </p>
