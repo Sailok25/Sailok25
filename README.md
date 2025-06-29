@@ -89,7 +89,7 @@
 
 <p align="left">
   <img 
-    src="https://img.shields.io/badge/English-B1-blue?style=for-the-badge" 
+    src="https://img.shields.io/badge/English-Basic-blue?style=for-the-badge" 
     alt="English" 
   />
   <img 
