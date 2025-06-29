@@ -10,9 +10,7 @@
 <h1 align="left">Hi! I'm <code>&lt;/Sailok&gt;</code></h1>
 
 <p align="left">
-  I'm an DAM student passionate about <strong>web design</strong> and 
-  <strong>creative technologies</strong>. I share academic and personal projects here as 
-  I work on improving my skills. My goal is to become a professional in digital design.
+  I'm a <strong>Computer Technician</strong> specialized in <strong>web and mobile app development</strong>. I enjoy combining creativity and technology, and I share here my academic and personal projects as I keep improving my skills. My goal is to become a professional in digital design and app development.
 </p>
 
 <p align="left">
@@ -41,14 +39,6 @@
     alt="Java" 
   />
   <img 
-    src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" 
-    alt="Markdown" 
-  />
-  <img 
-    src="https://img.shields.io/badge/XML-8A2BE2?style=for-the-badge&logo=xml&logoColor=white" 
-    alt="XML" 
-  />
-  <img 
     src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" 
     alt="MySQL" 
   />
@@ -59,6 +49,18 @@
   <img 
     src="https://img.shields.io/badge/JasperReports-000000?style=for-the-badge&logo=jasperreports&logoColor=white" 
     alt="JasperReports" 
+  />
+  <img 
+    src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" 
+    alt="Flutter" 
+  />
+  <img 
+    src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" 
+    alt="MongoDB" 
+  />
+  <img 
+    src="https://img.shields.io/badge/Odoo-4B0082?style=for-the-badge&logo=odoo&logoColor=white" 
+    alt="Odoo" 
   />
 </p>
 
