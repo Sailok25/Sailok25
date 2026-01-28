@@ -65,7 +65,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge" alt="Spanish" />
   <img src="https://img.shields.io/badge/Catalan-Native-yellow?style=for-the-badge" alt="Catalan" />
-  <img src="https://img.shields.io/badge/English-Advanced-blue?style=for-the-badge" alt="English" />
+  <img src="https://img.shields.io/badge/English-Technical-blue?style=for-the-badge" alt="English" />
 </p>
 
 ---
