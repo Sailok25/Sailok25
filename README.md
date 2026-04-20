@@ -7,7 +7,7 @@
   align="right" 
 />
 
-<h1 align="left">Hi! I'm <code>&lt;/Sailok&gt;</code> 👋</h1>
+<h1 align="left">Hi! I'm <code>&lt;/Alba Ayala&gt;</code> 👋</h1>
 
 <h3 align="left">A passionate Frontend Developer and UI/UX Designer from Spain</h3>
 
