@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  🌱 <strong>Learning:</strong> React, Next.js, and AI integration
+  🌱 <strong>Learning:</strong> JavaScript, Next.js, and AI integration
 </p>
 
 <p align="left">
